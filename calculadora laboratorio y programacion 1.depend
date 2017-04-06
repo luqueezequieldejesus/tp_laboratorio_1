@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1491444651 source:c:\users\zequiel\desktop\programacion y laboratorio i\calculadora 2017\nueva carpeta\calculadora laboratorio y programacion 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491441801 source:c:\users\zequiel\desktop\programacion y laboratorio i\calculadora 2017\nueva carpeta\calculadora laboratorio y programacion 1\funciones.c
+
+1491441584 c:\users\zequiel\desktop\programacion y laboratorio i\calculadora 2017\nueva carpeta\calculadora laboratorio y programacion 1\funciones.h
+
